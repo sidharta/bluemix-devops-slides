@@ -5,3 +5,5 @@ revealjs_config:
   parallaxBackgroundSize: 1920px 1080px
   history: true
   slideNumber: true
+
+# If you want to print pdf change parallaxBackgroundSize to 1056px 770px
