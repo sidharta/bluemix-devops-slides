@@ -1,0 +1,7 @@
+theme: league
+transition: slide
+revealjs_config:
+  parallaxBackgroundImage: 'https://www.netdevices.fr/wp-content/themes/vossen/img/backgrounds/bg-shortcodes.jpg'
+  parallaxBackgroundSize: 1920px 1080px
+  history: true
+  slideNumber: true
